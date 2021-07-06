@@ -1,6 +1,6 @@
 ## Live Streaming with Flask and Open-CV
 ```python
-pip install -r requirements.txt
+pip install requirements.txt
 ```
 ### Run Server
 ```python
